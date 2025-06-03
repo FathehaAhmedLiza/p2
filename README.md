@@ -1,1 +1,1 @@
-# p2
+This is a simple and responsive personal portfolio website built using HTML and Tailwind CSS. It highlights Fatheha Ahmed's background as a third-year Software Engineering student at Metropolitan University. The website includes sections like About Me, My Journey, Education, Skills, Projects, and Contact. It also features links to social media profiles and a downloadable CV. To view the site, open the index.html file in a browser. Replace profile.jpg and cv.pdf with your own files as needed.
